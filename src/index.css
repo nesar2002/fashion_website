@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+/* --------------font------------ */
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
+
+body,html{
+    direction: rtl;
+}
+
+/* -------------------color---------------- */
+@theme {
+  /* رنگ‌های اصلی */
+  --color-primary: #E91E63;
+  --color-secondary: #C2185B;
+
+  /* طیف صورتی */
+  --color-pink-light: #FCE4EC;
+  --color-pink-soft: #F8BBD0;
+  --color-pink-bg: #FFF8FB;
+
+  /* رنگ‌های عمومی */
+  --color-white: #FFFFFF;
+  --color-text: #29202A;
+  --color-gray-light: #F5F5F5;
+  --color-border: #F8D7E8;
+
+  /* رنگ‌های وضعیت */
+  --color-gold: #FFB300;
+  --color-success: #168443;
+  --color-discount: #E6005C;
+}
