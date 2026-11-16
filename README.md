@@ -1,39 +1,66 @@
-این بروژه داری سه کامبونت اصلی می باشد
-Announcemnt_Bar
-Heder
-page_content
+# Fashion Website
 
-این پروژه داری ۱۲ صفه می باشد
-هر کذام به ترتیب ذیل می باشد
+## About Project
+This is a Fashion Website developed as a collaborative team project.
 
-۱-صفه اصلی 
-۲-فروشگاه
-۳-ارایش صورت
-۴-ارایش چشم
-۵-ارایش لب
-۶-مراقبت از مو 
-۷-مراقبت از پوست
-۸-محصولات بهداشتی
-۹-عطر و ادکلن
-۱۰-تخفیف ها
-۱۱-درباره ما
-۱۲-تماس با ما
+## Main Components
+This project consists of three main components:
 
-بخش ها که مربوط به نثار احمد عست
-Heder
-۱-صفه اصلی 
-۲-فروشگاه
-۳-ارایش صورت
-۴-ارایش چشم
-۵-ارایش لب
-۶-مراقبت از مو 
+1. Announcement_Bar
+2. Header
+3. Page_Content
 
-بخش های که مربوط به وحید جان عست
-Announcemnt_Bar
-page_content
-۷-مراقبت از پوست
-۸-محصولات بهداشتی
-۹-عطر و ادکلن
-۱۰-تخفیف ها
-۱۱-درباره ما
-۱۲-تماس با ما
+## Website Pages
+The website contains 12 pages:
+
+1. Home
+2. Shop
+3. Face Makeup
+4. Eye Makeup
+5. Lip Makeup
+6. Hair Care
+7. Skin Care
+8. Personal Care Products
+9. Perfumes & Colognes
+10. Discounts
+11. About Us
+12. Contact Us
+
+## Team Members and Responsibilities
+
+### Nesar Ahmad
+Responsible for:
+
+- Header Component
+- Home Page
+- Shop Page
+- Face Makeup Page
+- Eye Makeup Page
+- Lip Makeup Page
+- Hair Care Page
+
+### Waheed
+Responsible for:
+
+- Announcement Bar Component
+- Page Content Component
+- Skin Care Page
+- Personal Care Products Page
+- Perfumes & Colognes Page
+- Discounts Page
+- About Us Page
+- Contact Us Page
+
+## Technologies Used
+
+- React
+- JavaScript
+- Tailwind CSS
+
+## Project Management
+This project is developed collaboratively. Each team member is responsible for their assigned components and pages.
+
+The project manager coordinates tasks, monitors progress, reviews contributions, and manages the integration of the project.
+
+## Team Project
+Developed as a collaborative team project.
