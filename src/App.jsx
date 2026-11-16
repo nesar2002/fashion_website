@@ -27,6 +27,7 @@ export const App = () => {
      <BrowserRouter>
      <Announcemnt_Bar/>
      <Header/>
+     <page_content/>
 
       <Routes>
          <Route path="/" element={<Home/>} />
